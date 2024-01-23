@@ -1,0 +1,52 @@
+[
+    {
+        "model": "books.book",
+        "pk": 1,
+        "fields": {
+            "title": "The Power Of Your Subconscious Mind",
+            "publish_year": 1963,
+            "author": 1,
+            "barcode": null
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 2,
+        "fields": {
+            "title": "Think Like a Monk",
+            "publish_year": 2020,
+            "author": 2,
+            "barcode": null
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 3,
+        "fields": {
+            "title": "Think Like a Monk",
+            "publish_year": 2020,
+            "author": 2,
+            "barcode": "2wdc"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 4,
+        "fields": {
+            "title": "Think Like a Monk",
+            "publish_year": 2020,
+            "author": 2,
+            "barcode": "2wdc"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 5,
+        "fields": {
+            "title": "Think Like a Monk",
+            "publish_year": 2020,
+            "author": 2,
+            "barcode": "2wdc"
+        }
+    }
+]
